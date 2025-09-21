@@ -1,7 +1,6 @@
 # Interactive US Honey Production Analysis 🍯
 
-![Honey Production Banner](https://images.unsplash.com/photo-1558222384-e4d3c26d7f2e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80)
-*Photo by [Arwin Neil Baichoo](https://unsplash.com/@arwinneil) on Unsplash*
+![Honey Production Banner](![Honey Production Banner](https://images.unsplash.com/photo-1587049352851-8d4e89133924?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80))
 
 This repository contains a data analysis project exploring the **US Honey Production dataset** from 1998 to 2021. The primary focus is on creating dynamic and interactive visualizations using the Plotly library in Python to uncover trends and insights.
 
