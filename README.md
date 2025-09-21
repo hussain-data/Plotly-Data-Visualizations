@@ -31,8 +31,9 @@ This project is built using Python and several key data science libraries:
 * **NumPy:** For numerical operations.
 * **Plotly Express:** For creating high-level interactive visualizations.
 * **Jupyter Notebook:** As the development environment.
----
 
 ## 📄 License
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
+
+---
